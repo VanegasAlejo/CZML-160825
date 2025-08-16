@@ -110,7 +110,7 @@
       "extrudedHeightReference": "RELATIVE_TO_GROUND",
       "material": {
         "solidColor": {
-          "color": { "rgba": [100, 255, 150, 100] }
+          "color": { "rgba": [140, 0, 255, 255] }
         }
       }
     }
