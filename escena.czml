@@ -25,7 +25,8 @@
         { "interval": "2025-08-07T00:00:00Z/2025-08-13T23:59:59Z", "number": 40000 },
         { "interval": "2025-08-14T00:00:00Z/2025-08-20T23:59:59Z", "number": 70000 },
         { "interval": "2025-08-21T00:00:00Z/2025-08-26T23:59:59Z", "number": 100000 },
-        { "interval": "2025-08-27T00:00:00Z/2025-08-29T23:00:00Z", "number": 150000 }
+        { "interval": "2025-08-27T00:00:00Z/2025-08-29T23:00:00Z", "number": 150000 },
+        { "interval": "2025-08-30T00:00:00Z/2025-09-05T23:59:59Z", "number": 180000 }
       ],
       "extrudedHeightReference": "RELATIVE_TO_GROUND",
       "material": {
@@ -51,7 +52,8 @@
         { "interval": "2025-08-07T00:00:00Z/2025-08-13T23:59:59Z", "number": 30000 },
         { "interval": "2025-08-14T00:00:00Z/2025-08-20T23:59:59Z", "number": 50000 },
         { "interval": "2025-08-21T00:00:00Z/2025-08-26T23:59:59Z", "number": 70000 },
-        { "interval": "2025-08-27T00:00:00Z/2025-08-29T23:00:00Z", "number": 90000 }
+        { "interval": "2025-08-27T00:00:00Z/2025-08-29T23:00:00Z", "number": 90000 },
+        { "interval": "2025-08-30T00:00:00Z/2025-09-05T23:59:59Z", "number": 110000 }
       ],
       "extrudedHeightReference": "RELATIVE_TO_GROUND",
       "material": {
@@ -78,7 +80,8 @@
         { "interval": "2025-08-07T00:00:00Z/2025-08-13T23:59:59Z", "number": 30000 },
         { "interval": "2025-08-14T00:00:00Z/2025-08-20T23:59:59Z", "number": 50000 },
         { "interval": "2025-08-21T00:00:00Z/2025-08-26T23:59:59Z", "number": 70000 },
-        { "interval": "2025-08-27T00:00:00Z/2025-08-29T23:00:00Z", "number": 90000 }
+        { "interval": "2025-08-27T00:00:00Z/2025-08-29T23:00:00Z", "number": 90000 },
+        { "interval": "2025-08-30T00:00:00Z/2025-09-05T23:59:59Z", "number": 110000 }
       ],
       "extrudedHeightReference": "RELATIVE_TO_GROUND",
       "material": {
@@ -105,12 +108,13 @@
         { "interval": "2025-08-07T00:00:00Z/2025-08-13T23:59:59Z", "number": 30000 },
         { "interval": "2025-08-14T00:00:00Z/2025-08-20T23:59:59Z", "number": 50000 },
         { "interval": "2025-08-21T00:00:00Z/2025-08-26T23:59:59Z", "number": 70000 },
-        { "interval": "2025-08-27T00:00:00Z/2025-08-29T23:00:00Z", "number": 90000 }
+        { "interval": "2025-08-27T00:00:00Z/2025-08-29T23:00:00Z", "number": 90000 },
+        { "interval": "2025-08-30T00:00:00Z/2025-09-05T23:59:59Z", "number": 110000 }
       ],
       "extrudedHeightReference": "RELATIVE_TO_GROUND",
       "material": {
         "solidColor": {
-          "color": { "rgba": [140, 0, 255, 255] }
+          "color": { "rgba": [140, 0, 255, 100] }
         }
       }
     }
